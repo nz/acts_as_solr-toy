@@ -1,3 +1,0 @@
-- highlighting support (needs doc)
-- invalid chars in XML bug fix
-- Raise a specific Exception class on connection error

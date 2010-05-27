@@ -6,7 +6,7 @@
 # no regular words or you'll be exposed to dictionary attacks.
 ActionController::Base.session = {
   :key         => '_acts_as_solr-toy_session',
-  :secret      => 'b8470eb39502db6dc6d04bbd716b6b1ea1fd9c54a86ce6734e2822189e1d00e736e65914213931a85d87e3f97a390190207c9b6072a73c59a4ab0c10dd867e10'
+  :secret      => '71767c19fa1853cbb79e54f9d1598ff49fe3a8beba23ae4264227cec040e97123df71813759548881416d386c07a0739cba1450fd988f2f732b1f15f160de149'
 }
 
 # Use the database for sessions instead of the cookie-based default,
